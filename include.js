@@ -1823,6 +1823,20 @@ let cards = [
     githubLink: 'https://github.com/Sayed-Husain'
   },
   {
+    artName: 'Pixel Button',
+    pageLink: './Art/RoshanJ20/index.html',
+    imageLink: './Art/RoshanJ20/pixel_button.png',
+    author: 'RoshanJ20',
+    githubLink: 'https://github.com/RoshanJ20'
+  },
+  {
+    artName: 'Indian Flag Animation',
+    pageLink: './Art/TaylorDJones11/index.html',
+    imageLink: './Art/TaylorDJones11/animation.gif',
+    author: 'Taylor J',
+    githubLink: 'https://github.com/TaylorDJones11'
+  },
+  {
     artName: 'Oscillating Ball Wave',
     pageLink: './Art/Aaryash-Shakya/oscillating-ball-wave.html',
     imageLink: './Art/Aaryash-Shakya/oscillating-ball-wave.gif',
